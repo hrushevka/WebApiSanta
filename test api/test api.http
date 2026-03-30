@@ -1,0 +1,9 @@
+@test_api_HostAddress = http://localhost:5265
+
+POST {{test_api_HostAddress}}/api/santa/register
+POST {{test_api_HostAddress}}/api/santa/wish
+GET {{test_api_HostAddress}}/api/santa/wish/{name}
+GET {{test_api_HostAddress}}/api/santa/giftfor/{name}
+Accept: application/json
+
+###

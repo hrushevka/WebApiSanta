@@ -1,0 +1,72 @@
+D:\cpp\test api\test api\bin\Debug\net9.0\appsettings.Development.json
+D:\cpp\test api\test api\bin\Debug\net9.0\appsettings.json
+D:\cpp\test api\test api\bin\Debug\net9.0\test api.staticwebassets.endpoints.json
+D:\cpp\test api\test api\bin\Debug\net9.0\test api.exe
+D:\cpp\test api\test api\bin\Debug\net9.0\test api.deps.json
+D:\cpp\test api\test api\bin\Debug\net9.0\test api.runtimeconfig.json
+D:\cpp\test api\test api\bin\Debug\net9.0\test api.dll
+D:\cpp\test api\test api\bin\Debug\net9.0\test api.pdb
+D:\cpp\test api\test api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\cpp\test api\test api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cpp\test api\test api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cpp\test api\test api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.csproj.AssemblyReference.cache
+D:\cpp\test api\test api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.GeneratedMSBuildEditorConfig.editorconfig
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.AssemblyInfoInputs.cache
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.AssemblyInfo.cs
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.csproj.CoreCompileInputs.cache
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.MvcApplicationPartsAssemblyInfo.cs
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.MvcApplicationPartsAssemblyInfo.cache
+D:\cpp\test api\test api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\cpp\test api\test api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\cpp\test api\test api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\cpp\test api\test api\obj\Debug\net9.0\scopedcss\bundle\test api.styles.css
+D:\cpp\test api\test api\obj\Debug\net9.0\staticwebassets.build.json
+D:\cpp\test api\test api\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\cpp\test api\test api\obj\Debug\net9.0\staticwebassets.development.json
+D:\cpp\test api\test api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\cpp\test api\test api\obj\Debug\net9.0\swae.build.ex.cache
+D:\cpp\test api\test api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.csproj.Up2Date
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.dll
+D:\cpp\test api\test api\obj\Debug\net9.0\refint\test api.dll
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.pdb
+D:\cpp\test api\test api\obj\Debug\net9.0\test api.genruntimeconfig.cache
+D:\cpp\test api\test api\obj\Debug\net9.0\ref\test api.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\appsettings.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\test api.staticwebassets.endpoints.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\test api.exe
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\test api.deps.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\test api.runtimeconfig.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\test api.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\test api.pdb
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.AssemblyInfo.cs
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\scopedcss\bundle\test api.styles.css
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.csproj.Up2Date
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\refint\test api.dll
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.pdb
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\test api.genruntimeconfig.cache
+C:\Users\Кирилл\Documents\GitHub\WebApiSanta\test api\obj\Debug\net9.0\ref\test api.dll

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" class="inp" placeholder="имя">
+    <input type="text" class="inp1" placeholder="подарок">
+    <button class="reg">reg</button>
+    <button class="wish">wish</button>
+    <button class="wishname">wish name</button>
+    <script>
+        const start_url = "https://localhost:7161/api/santa/";
+        const inp = document.querySelector(".inp");
+        const inp1 = document.querySelector(".inp1");
+        const reg = document.querySelector(".reg");
+        const wish = document.querySelector(".wish");
+        const wishname = document.querySelector(".wishname");
+        reg.addEventListener("click", () => {
+            let adfsasf;
+            fetch(`${start_url}register=`, {
+                method: 'POST',
+                body: JSON.stringify({
+                    name: inp.value
+                }),
+                headers: {
+                    'Content-type': 'application/json; charset=UTF-8'
+                }
+                })
+            .then(res => console.log(res.json()))
+        })
+        
+        wish.addEventListener("click", () => {
+            fetch(`${start_url}wish`, {
+                method: 'POST',
+                body: JSON.stringify({
+                    name: inp.value,
+                    wish: inp1.value
+                }),
+                headers: {
+                    'Content-type': 'application/json; charset=UTF-8'
+                }
+                })
+            .then(res => console.log(res.json()))
+        })
+        
+        wishname.addEventListener("click", () => {
+            fetch(`${start_url}wish/${inp.value}`)
+            .then(res => console.log(res.json()))
+        })
+    </script>
+</body>
+</html>
