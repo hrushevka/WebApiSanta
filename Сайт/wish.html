@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Тайный друг — узнать пожелание</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <main class="card">
+      <div class="badge">Дополнительная страница</div>
+      <h1>Узнать пожелание</h1>
+      <p class="lead">
+        Введи имя друга, которого ты вытянул, и посмотри, оставил ли он пожелание.
+      </p>
+
+      <form id="lookupForm" class="stack" novalidate>
+        <label class="field-group" for="friendNameInput">
+          <span class="field-label">Имя друга</span>
+          <input
+            id="friendNameInput"
+            name="friendName"
+            type="text"
+            maxlength="60"
+            placeholder="Например, Мария"
+            required
+          />
+        </label>
+
+        <div class="actions-row">
+          <button id="lookupButton" class="button button--primary" type="submit">Получить пожелание</button>
+          <a class="button button--ghost" href="./index.html">Назад</a>
+        </div>
+      </form>
+
+      <div id="lookupStatus" class="alert alert--hidden" aria-live="polite"></div>
+
+      <section id="wishResultSection" class="result result--hidden" aria-live="polite">
+        <h2>Пожелание</h2>
+        <p id="wishResultText" class="wish-result"></p>
+      </section>
+    </main>
+  </div>
+
+  <script src="./wish-page.js"></script>
+</body>
+</html>

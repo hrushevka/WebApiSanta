@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Тайный друг — участие</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <main class="card card--main">
+      <div class="badge">Secret Santa / Тайный друг</div>
+      <h1>Участвуй в обмене подарками</h1>
+      <p class="lead">
+        Введи своё имя, узнай, кому ты готовишь подарок, и оставь пожелание для того,
+        кто дарит подарок тебе.
+      </p>
+
+      <form id="registerForm" class="stack" novalidate>
+        <label class="field-group" for="nameInput">
+          <span class="field-label">Ваше имя</span>
+          <input
+            id="nameInput"
+            name="name"
+            type="text"
+            maxlength="20"
+            autocomplete="name"
+            placeholder="Например, Алексей"
+            required
+          />
+        </label>
+
+        <button id="registerButton" class="button button--primary" type="submit">
+          Участвовать / Получить подарок
+        </button>
+      </form>
+
+      <div id="statusBox" class="alert alert--hidden" aria-live="polite"></div>
+
+      <section id="resultSection" class="result result--hidden" aria-live="polite">
+        <h2>Результат</h2>
+        <p id="resultText" class="result__text"></p>
+
+        <div id="waitingHint" class="info info--hidden">
+          Пока участников недостаточно для честного распределения. Когда зарегистрируется ещё хотя бы один человек,
+          список может быть перераспределён.
+        </div>
+      </section>
+
+      <section id="wishSection" class="panel panel--hidden">
+        <div class="panel__header">
+          <div>
+            <h2>Оставить пожелание</h2>
+            <p class="muted">Это пожелание сможет посмотреть тот, кому выпал твой подарок.</p>
+          </div>
+        </div>
+
+        <form id="wishForm" class="stack" novalidate>
+          <label class="field-group" for="wishInput">
+            <span class="field-label">Ваше пожелание</span>
+            <textarea
+              id="wishInput"
+              name="wish"
+              rows="5"
+              maxlength="500"
+              placeholder="Например, новые наушники, чай, книга по дизайну..."
+              required
+            ></textarea>
+          </label>
+
+          <div class="actions-row">
+            <button id="wishButton" class="button button--accent" type="submit">Отправить пожелание</button>
+            <a class="button button--ghost" href="./wish.html">Узнать пожелание друга</a>
+          </div>
+        </form>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
