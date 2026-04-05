@@ -91,10 +91,5 @@ namespace test_api.Controllers
 			var wish = _wishes.GetValueOrDefault(name, string.Empty);
 			return (name, wish);
 		}
-
-		public bool IsUserRegistered(string name)
-		{
-			return _users.Contains(name.Trim());
-		}
 	}
 }
